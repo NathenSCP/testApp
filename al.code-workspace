@@ -1,10 +1,10 @@
 {
     "folders":  [
                     {
-                        "path":  "./Multi-project/.AL-Go"
+                        "path":  "./Multi-project"
                     },
                     {
-                        "path":  "./Multi-project/testApp"
+                        "path":  "./TestApp2"
                     }
                 ],
     "settings":  {
