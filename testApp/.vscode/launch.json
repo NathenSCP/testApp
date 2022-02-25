@@ -1,13 +1,13 @@
 {
     "configurations": [
         {
-            "name": "testContainer",
+        "name": "containersandbox",
         "type": "al",
         "request": "launch",
         "environmentType": "OnPrem",
-        "server": "http://testContainer",
+        "server": "http://containersandbox",
         "serverInstance": "BC",
-        "authentication": "Windows",
+        "authentication": "UserPassword",
         "startupObjectId": 22,
         "breakOnError": true,
         "breakOnRecordWrite": false,
