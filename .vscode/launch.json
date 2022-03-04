@@ -16,7 +16,8 @@
             "longRunningSqlStatementsThreshold": 500,
             "numberOfSqlStatements": 10,
             "server": "https://businesscentral.dynamics.com/",
-            "tenant": "adbe1dd4-bf1b-40c6-9687-f2539012d696"
+            "tenant": "adbe1dd4-bf1b-40c6-9687-f2539012d696",
+            "schemaUpdateMode": "ForceSync"
             },
         ]
 }

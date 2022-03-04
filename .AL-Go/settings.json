@@ -1,7 +1,7 @@
 ﻿{
     "country":  "us",
     "appFolders":  [
-                       "testApp"
+                       "MultiProject"
                    ],
     "testFolders":  [
                         "TestApp2"
