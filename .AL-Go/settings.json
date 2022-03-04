@@ -1,9 +1,9 @@
 ﻿{
     "country":  "us",
     "appFolders":  [
-                       "MultiProject"
+                       "MultiProject/testApp"
                    ],
     "testFolders":  [
-                        "TestApp2"
+                        "TestApp2/TestApp2"
                     ]
 }
