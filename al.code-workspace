@@ -1,0 +1,13 @@
+{
+    "folders":  [
+                    {
+                        "path":  "./MultiProject/testApp"
+                    },
+                    {
+                        "path":  "./TestApp2/TestApp2"
+                    }
+                ],
+    "settings":  {
+
+                 }
+}
