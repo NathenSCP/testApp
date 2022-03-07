@@ -5,5 +5,6 @@
                    ],
     "testFolders":  [
                         "TestApp2/TestApp2"
-                    ]
+                    ],
+    "RepoVersion":  "1.1"
 }
